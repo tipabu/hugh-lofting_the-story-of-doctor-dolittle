@@ -16,3 +16,9 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+q{
+	font-style: italic;
+}
+q > b{
+	font-style: normal;
+}
